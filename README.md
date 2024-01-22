@@ -1,3 +1,0 @@
-# Crousteam
-
-Projet Crousteam
